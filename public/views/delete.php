@@ -9,13 +9,21 @@ if ($id === null) {
     exit;
 }
 
-if($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $vehicleManager->new VehicleManager("", "", "", "", "", ""  );
-    if(isset($_POST['confirm']) && $_POST['confirm'] === 'yes') {
-        $vehicleManager->deleteVehicle($id);
-         header("Location: ../index.php");
+$vehicles = $vehicleManager->getVehicles();
+$vehicle = $vehicles[$id] ?? null;
+if (!$vehicle) {
+    header("Location: ../index.php");
     exit;
+}    
+
+if($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $vehicleManager = new VehicleManager("", "", "", "", "", ""  );
+    if(isset($_POST['confirm']) && $_POST['confirm'] === 'yes') {
+        $vehicleManager->deleteVehicle($id);    
     }
+
+    header("Location: ../index.php");
+    exit;
    
 }
 

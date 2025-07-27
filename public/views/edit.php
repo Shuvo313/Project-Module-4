@@ -1,19 +1,34 @@
 <?php
 
 require_once '../../app/classes/VehicleManager.php';  
-$vehicleManager = new VehicleManager("", "", "", "", "", ""  ); 
+    $vehicleManager = new VehicleManager("", "", "", "", "", ""  ); 
 $id = $_GET['id'] ?? null;
 
 if($id === null){
     header("Location: ../index.php");
     exit;
 }
+
 $vehicles = $vehicleManager->getVehicles();
 $vehicle = $vehicles[$id] ?? null;
 
 if(!$vehicle){
     header("Location: ../index.php");
     exit;
+}
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+
+$vehicleManager = new VehicleManager("", "", "", "");
+$vehicleManager->editVehicle($id,[
+    "name" => $_POST['name'] ,
+    "type" => $_POST['type'],
+    "price" => $_POST['price'],
+    "image" => $_POST['image'],
+]);
+
+header("Location: ../index.php");
+    exit();
 }
 
 include './header.php';
