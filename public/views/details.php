@@ -3,7 +3,7 @@ require_once '../../app/Classes/VehicleManager.php';
 
 $vehicleManager = new VehicleManager("", "", "", "", "", "");
 $id = $_GET['id'] ?? null;
-if (!$id) {
+if ($id == null) {
     header("Location: ../index.php");
     exit;
 }
@@ -32,8 +32,8 @@ include './header.php';
                     <h3 class="card-title"><?= htmlspecialchars($vehicle['name']) ?></h3>
                     <p class="card-text"><strong>Type:</strong> <?= htmlspecialchars($vehicle['type']) ?></p>
                     <p class="card-text"><strong>Price:</strong> <?= htmlspecialchars($vehicle['price']) ?></p>
-                    <?php if (!empty($vehicle['description'] ?? '')): ?>
-                        <p class="card-text"><strong>Description:</strong> <?= nl2br(htmlspecialchars($vehicle['description'])) ?></p>
+                    <?php if (!empty($vehicle['details'] ?? '')): ?>
+                        <p class="card-text"><strong>Description:</strong> <?= nl2br(htmlspecialchars($vehicle['details'])) ?></p>
                     <?php endif; ?>
                     <a href="../index.php" class="btn btn-secondary">Back to list</a>
                 </div>

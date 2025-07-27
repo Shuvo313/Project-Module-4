@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "name": "Toyota",
+        "type": "Car",
+        "price": "250000",
+        "image": "https:\/\/imgs.search.brave.com\/DLupkmiGvcwUSTk-NDPBYSB_1trjsyAGwBwmfk5SkWU\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9tZWRp\/YS5pc3RvY2twaG90\/by5jb20vaWQvMTAy\/OTQ1ODUyOC9waG90\/by90b3lvdGEtY29y\/b2xsYS1ncmV5LWNv\/bG9yLWNhci1wYXJr\/aW5nLWluLXRoZS1m\/b3Jlc3QtdHJhdmVs\/LXN0b3AuanBnP3M9\/NjEyeDYxMiZ3PTAm\/az0yMCZjPWl4Wi1X\/bjBRbHlXMlFFZHla\/TWx2eFBVdFYycXdQ\/bllkTWwybTlhbUR1\/YWc9"
+    },
+    {
+        "name": "Range Rover",
+        "type": "Pajero",
+        "price": "300000",
+        "image": "https:\/\/imgs.search.brave.com\/RF1LqgIpLHD-CdpJNVvNa3X4i_TJGPAUsgvQzJoOsDE\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9zdGlt\/Zy5jYXJkZWtoby5j\/b20vaW1hZ2VzL2Nh\/cmV4dGVyaW9yaW1h\/Z2VzLzYzMHg0MjAv\/TGFuZC1Sb3Zlci9S\/YW5nZS1Sb3Zlci8x\/MTU0MC8xNzE5MDM3\/OTI0MzIwL3NpZGUt\/dmlldy0obGVmdCkt\/OTAuanBnP3RyPWgt\/MTk0"
+    },
+    {
+        "name": "Honda",
+        "type": "Bike",
+        "price": "150000",
+        "image": "https:\/\/imgs.search.brave.com\/f2trENsGu6Yees5mygMGMVNstRKP82IYauSEycr5CQY\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9pbWFn\/ZXMuYXV0b3guY29t\/L3VwbG9hZHMvMjAy\/Mi8wNi9CYWphai1Q\/dWxzYXItTjE2MC1S\/aWdodC1TaWRlLVZp\/ZXcuanBn"
+    }
+]
