@@ -6,6 +6,7 @@ require_once './../app/classes/VehicleManager.php';
     $vehicles = $vehicleManager->getVehicles();
 
 include './views/header.php';
+
 ?>
 
 
