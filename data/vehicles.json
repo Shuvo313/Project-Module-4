@@ -1,32 +1,20 @@
 [
     {
-        "name": "Toyota",
+        "name": "2025 Audi A3",
         "type": "Car",
-        "price": "250000",
-        "image": "https:\/\/imgs.search.brave.com\/DLupkmiGvcwUSTk-NDPBYSB_1trjsyAGwBwmfk5SkWU\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9tZWRp\/YS5pc3RvY2twaG90\/by5jb20vaWQvMTAy\/OTQ1ODUyOC9waG90\/by90b3lvdGEtY29y\/b2xsYS1ncmV5LWNv\/bG9yLWNhci1wYXJr\/aW5nLWluLXRoZS1m\/b3Jlc3QtdHJhdmVs\/LXN0b3AuanBnP3M9\/NjEyeDYxMiZ3PTAm\/az0yMCZjPWl4Wi1X\/bjBRbHlXMlFFZHla\/TWx2eFBVdFYycXdQ\/bllkTWwybTlhbUR1\/YWc9"
+        "price": "38000",
+        "image": "https:\/\/imgs.search.brave.com\/f0JjZauxgBugpZa-qEQgFaKi_O-chpb_7WU68BLIJic\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9leHRl\/cm5hbC1wcmV2aWV3\/LnJlZGQuaXQvdGhl\/LTIwMjUtYXVkaS1h\/My1pcy1hbGwtd2hl\/ZWwtZHJpdmUtb25s\/eS12MC1WTW8zUUdo\/Y0lBUU1iSXNIc29z\/Xy13eEpMX3R6ZWNo\/Q3ZMSDVkZlJZb053\/LmpwZz93aWR0aD02\/NDAmY3JvcD1zbWFy\/dCZhdXRvPXdlYnAm\/cz0yNWUzNjQ2NzQy\/OTZmNTFkNWU2YzU2\/ZGY0Yjc1YWNhY2Q4\/OTZkNzVl"
     },
     {
-        "name": "Range Rover",
-        "type": "Pajero",
-        "price": "300000",
-        "image": "https:\/\/imgs.search.brave.com\/RF1LqgIpLHD-CdpJNVvNa3X4i_TJGPAUsgvQzJoOsDE\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9zdGlt\/Zy5jYXJkZWtoby5j\/b20vaW1hZ2VzL2Nh\/cmV4dGVyaW9yaW1h\/Z2VzLzYzMHg0MjAv\/TGFuZC1Sb3Zlci9S\/YW5nZS1Sb3Zlci8x\/MTU0MC8xNzE5MDM3\/OTI0MzIwL3NpZGUt\/dmlldy0obGVmdCkt\/OTAuanBnP3RyPWgt\/MTk0"
+        "name": "Toyota",
+        "type": "Hybrid",
+        "price": "38000",
+        "image": "https:\/\/imgs.search.brave.com\/00L0e54OEFgg4Bvl7cKqzjdv1uZYeKp8hWuHWNBzI5U\/rs:fit:860:0:0:0\/g:ce\/aHR0cHM6Ly9tZWRp\/YS5nZXR0eWltYWdl\/cy5jb20vaWQvMTM2\/MTgwOTMyOC9waG90\/by90b3lvdGEteWFy\/aXMtY3Jvc3MtaHli\/cmlkLW9uLWEtc3Ry\/ZWV0LmpwZz9zPTYx\/Mng2MTImdz0wJms9\/MjAmYz1uYlJkeFU4\/cUt6MWtmSUFVZ01C\/bndVaEhId3kzUkpB\/dVlNTHJPV1dwbk1B\/PQ"
     },
     {
-        "name": "Honda",
-        "type": "Bike",
-        "price": "150000",
-        "image": "https:\/\/imgs.search.brave.com\/f2trENsGu6Yees5mygMGMVNstRKP82IYauSEycr5CQY\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9pbWFn\/ZXMuYXV0b3guY29t\/L3VwbG9hZHMvMjAy\/Mi8wNi9CYWphai1Q\/dWxzYXItTjE2MC1S\/aWdodC1TaWRlLVZp\/ZXcuanBn"
-    },
-    {
-        "name": "Bycycle",
-        "type": "Bycycle",
-        "price": "8000",
-        "image": "https:\/\/imgs.search.brave.com\/SnZ1GjlrnoGjg5sLyrHbHc2AsuNMV4wk1NDuXCrnuDM\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9idXJz\/dC5zaG9waWZ5Y2Ru\/LmNvbS9waG90b3Mv\/YmljeWNsZS1pbi10\/aGUtZ2FyZGVuLmpw\/Zz93aWR0aD0xMDAw\/JmZvcm1hdD1wanBn\/JmV4aWY9MCZpcHRj\/PTA"
-    },
-    {
-        "name": "Pulsar",
-        "type": "Suzuki",
-        "price": "250000",
-        "image": "https:\/\/imgs.search.brave.com\/avNYjIXhCF8dyMX7YJy33tEWVa-3KWJkU8QoReG_8JY\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly81Lmlt\/aW1nLmNvbS9kYXRh\/NS9TRUxMRVIvRGVm\/YXVsdC8yMDI1LzYv\/NTIyMjI3NjU2L1RR\/L1NML0lDLzMwMjc3\/Mjgvc3V6dWtpLXYt\/c3Ryb20tc3gtMjQ5\/Y2MtNTAweDUwMC5w\/bmc"
+        "name": "BMW SUVs",
+        "type": "Car",
+        "price": "45000",
+        "image": "https:\/\/imgs.search.brave.com\/2Pk9iCeYlQcsAUUQ8bB9Ipszu9hwJcEQXmJl4hwDBHE\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly93d3cu\/bW90b3J0cmVuZC5j\/b20vZmlsZXMvNjdi\/ZmFjMmE4YWVkMWYw\/MDA4NTI2ZWNhLzEt\/MjAyNS1ibXctbTgt\/Y29tcGV0aXRpb24t\/Y2FicmlvbGV0LWZy\/b250LXZpZXcuanBn\/P3c9NzY4JndpZHRo\/PTc2OCZxPTc1JmZv\/cm1hdD13ZWJw"
     }
 ]

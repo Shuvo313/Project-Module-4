@@ -22,7 +22,7 @@ include './views/header.php';
                     <div class="card-body">
                         <h5 class="card-title"><?= $vehicle['name'] ?></h5> 
                         <p class="card-text">Type: <?= $vehicle['type'] ?></p>
-                        <p class="card-text">Price: $<?= $vehicle['price'] ?></p>
+                        <p class="card-text">Price: $<?= number_format($vehicle['price'], 2) ?></p>
                         <a href="./views/edit.php?id=<?= $id ?>" class="btn btn-primary">Edit</a>
                         <a href="./views/delete.php?id=<?= $id ?>" class="btn btn-danger">Delete</a>
                         <a href="./views/details.php?id=<?= $id ?>" class="btn btn-info">Details</a>
