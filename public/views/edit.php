@@ -1,7 +1,8 @@
 <?php
 
 require_once '../../app/classes/VehicleManager.php';  
-    $vehicleManager = new VehicleManager("", "", "", "", "", ""  ); 
+    $vehicleManager = new VehicleManager("", "", "", "");
+
 $id = $_GET['id'] ?? null;
 
 if($id === null){
@@ -10,6 +11,7 @@ if($id === null){
 }
 
 $vehicles = $vehicleManager->getVehicles();
+
 $vehicle = $vehicles[$id] ?? null;
 
 if(!$vehicle){
@@ -19,8 +21,8 @@ if(!$vehicle){
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
-$vehicleManager = new VehicleManager("", "", "", "");
-$vehicleManager->editVehicle($id,[
+    $vehicleManager = new VehicleManager("", "", "", "");
+    $vehicleManager->editVehicle($id,[
     "name" => $_POST['name'] ,
     "type" => $_POST['type'],
     "price" => $_POST['price'],
@@ -28,7 +30,8 @@ $vehicleManager->editVehicle($id,[
 ]);
 
 header("Location: ../index.php");
-    exit();
+
+exit();
 }
 
 include './header.php';

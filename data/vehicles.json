@@ -1,20 +1,20 @@
 [
     {
-        "name": "2025 Audi A3",
+        "name": "Audi RS 5",
         "type": "Car",
-        "price": "38000",
-        "image": "https:\/\/imgs.search.brave.com\/f0JjZauxgBugpZa-qEQgFaKi_O-chpb_7WU68BLIJic\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly9leHRl\/cm5hbC1wcmV2aWV3\/LnJlZGQuaXQvdGhl\/LTIwMjUtYXVkaS1h\/My1pcy1hbGwtd2hl\/ZWwtZHJpdmUtb25s\/eS12MC1WTW8zUUdo\/Y0lBUU1iSXNIc29z\/Xy13eEpMX3R6ZWNo\/Q3ZMSDVkZlJZb053\/LmpwZz93aWR0aD02\/NDAmY3JvcD1zbWFy\/dCZhdXRvPXdlYnAm\/cz0yNWUzNjQ2NzQy\/OTZmNTFkNWU2YzU2\/ZGY0Yjc1YWNhY2Q4\/OTZkNzVl"
+        "price": "78000",
+        "image": "https:\/\/www.ccarprice.com\/products\/Audi_RS_5_2026.jpg"
     },
     {
-        "name": "Toyota",
-        "type": "Hybrid",
-        "price": "38000",
-        "image": "https:\/\/imgs.search.brave.com\/00L0e54OEFgg4Bvl7cKqzjdv1uZYeKp8hWuHWNBzI5U\/rs:fit:860:0:0:0\/g:ce\/aHR0cHM6Ly9tZWRp\/YS5nZXR0eWltYWdl\/cy5jb20vaWQvMTM2\/MTgwOTMyOC9waG90\/by90b3lvdGEteWFy\/aXMtY3Jvc3MtaHli\/cmlkLW9uLWEtc3Ry\/ZWV0LmpwZz9zPTYx\/Mng2MTImdz0wJms9\/MjAmYz1uYlJkeFU4\/cUt6MWtmSUFVZ01C\/bndVaEhId3kzUkpB\/dVlNTHJPV1dwbk1B\/PQ"
-    },
-    {
-        "name": "BMW SUVs",
+        "name": "BMW M850",
         "type": "Car",
         "price": "45000",
-        "image": "https:\/\/imgs.search.brave.com\/2Pk9iCeYlQcsAUUQ8bB9Ipszu9hwJcEQXmJl4hwDBHE\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly93d3cu\/bW90b3J0cmVuZC5j\/b20vZmlsZXMvNjdi\/ZmFjMmE4YWVkMWYw\/MDA4NTI2ZWNhLzEt\/MjAyNS1ibXctbTgt\/Y29tcGV0aXRpb24t\/Y2FicmlvbGV0LWZy\/b250LXZpZXcuanBn\/P3c9NzY4JndpZHRo\/PTc2OCZxPTc1JmZv\/cm1hdD13ZWJw"
+        "image": "https:\/\/www.ccarprice.com\/products\/BMW_M3_2026.jpg"
+    },
+    {
+        "name": "Lamborghini",
+        "type": "Car",
+        "price": "357000",
+        "image": "https:\/\/www.ccarprice.com\/products\/Lamborghini_Temerario_2026.jpg"
     }
 ]
