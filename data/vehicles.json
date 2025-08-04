@@ -16,5 +16,11 @@
         "type": "Car",
         "price": "357000",
         "image": "https:\/\/www.ccarprice.com\/products\/Lamborghini_Temerario_2026.jpg"
+    },
+    {
+        "name": "Ferarri 2",
+        "type": "Car",
+        "price": "450000",
+        "image": "https:\/\/imgs.search.brave.com\/objBpu47-IhG2tIG1AowkkNhSwP7wCThLwcqtmncmZw\/rs:fit:500:0:1:0\/g:ce\/aHR0cHM6Ly93d3cu\/YmVsb3ctdGhlLXJh\/ZGFyLmNvbS93cC1j\/b250ZW50L3VwbG9h\/ZHMvMjAyMS8wMS9G\/ZXJyYXJpLVA4MC1D\/LTIwLTE1MDB4MTAw\/MC5qcGc_dj0xNjc1\/NzM2MDkw"
     }
 ]
